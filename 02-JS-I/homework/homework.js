@@ -27,16 +27,20 @@ const nuevoModulo = 21 % 5 === 1;
 
 function devolverString(str) {
   // "Return" la string provista: str
-  // Tu código:
-  
+  // Tu Código: 
+ var str = "Brayan";
+ return str; 
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  
+  var suma = 3 + 2;
+  return suma;
 }
+
+
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
